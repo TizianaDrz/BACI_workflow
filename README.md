@@ -145,4 +145,6 @@ If you use this workflow, please cite the manuscript above and this repository (
 
 ## Licence
 
-Code: MIT (see `LICENSE`).
+The code is released under the MIT licence (see `LICENSE`).
+
+The conversion factors and biogeographic affinities in `config/zooplankton_dry_mass_conversions.csv` are compiled from published sources; the source of each value is given in the `bibliographicCitation` column. When you use them, please cite those original publications.
