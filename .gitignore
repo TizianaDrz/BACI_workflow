@@ -1,0 +1,10 @@
+# No data or results in the repository
+data/*
+!data/README.md
+outputs/
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj.user

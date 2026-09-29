@@ -1,0 +1,86 @@
+﻿species,stage,taxon
+Calanus finmarchicus,AM,Calanus finmarchicus AM
+Calanus finmarchicus,AF,Calanus finmarchicus AF
+Calanus finmarchicus,CV,Calanus finmarchicus CV
+Calanus finmarchicus,CIV,Calanus finmarchicus CIV
+Calanus finmarchicus,CIII,Calanus finmarchicus CIII
+Calanus finmarchicus,CII,Calanus finmarchicus CII
+Calanus finmarchicus,CI,Calanus finmarchicus CI
+Calanus glacialis,AM,Calanus glacialis AM
+Calanus glacialis,AF,Calanus glacialis AF
+Calanus glacialis,CV,Calanus glacialis CV
+Calanus glacialis,CIV,Calanus glacialis CIV
+Calanus glacialis,CIII,Calanus glacialis CIII
+Calanus glacialis,CII,Calanus glacialis CII
+Calanus glacialis,CI,Calanus glacialis CI
+Calanus hyperboreus,AM,Calanus hyperboreus AM
+Calanus hyperboreus,AF,Calanus hyperboreus AF
+Calanus hyperboreus,CV,Calanus hyperboreus CV
+Calanus hyperboreus,CIV,Calanus hyperboreus CIV
+Calanus hyperboreus,CIII,Calanus hyperboreus CIII
+Calanus hyperboreus,CII,Calanus hyperboreus CII
+Calanus hyperboreus,CI,Calanus hyperboreus CI
+Metridia longa,AM,Metridia longa AM
+Metridia longa,AF,Metridia longa AF
+Metridia longa,CV,Metridia longa CV
+Metridia longa,CIV,Metridia longa CIV
+Metridia longa,CIII,Metridia longa CIII
+Metridia longa,CII,Metridia longa CII
+Metridia longa,CI,Metridia longa CI
+Microcalanus spp.,,Microcalanus spp. AF
+Pseudocalanus spp.,,Pseudocalanus spp. AF
+Oithona atlantica,,Oithona atlantica CVI
+Oithona similis,,Oithona similis CVI
+Acartia longiremis,,Acartia longiremis
+Triconia borealis,,Triconia borealis AF
+Bradyidius similis,,Bradyidius similis CIV–CVI
+Paraeuchaeta spp.,,Paraeuchaeta spp. CV
+Microsetella norvegica,,Microsetella norvegica
+Harpacticoida,indet,Harpacticoida
+Copepoda nauplii,nauplii,Copepoda nauplii
+Cirripedia,nauplii,Cirripedia nauplii
+Cirripedia,cypris,Cirripedia cypris
+Euphausiid,nauplii,Euphausiacea nauplii
+Euphausiid,furcilia,Euphausiacea furcilia 0–5 mm
+Thysanoessa inermis,,Thysanoessa inermis
+Thysanoessa longicaudata,,Thysanoessa longicaudata
+Thysanoessa raschii,,Thysanoessa raschii
+Meganycthiphanes norvegica,,Meganyctiphanes norvegica
+parasitic isopod,,Isopoda
+Ostracoda,,Ostracoda 1–2 mm
+Themisto abyssorum,,Themisto abyssorum 0–5 mm
+Themisto libellula,,Themisto libellula 0–5 mm
+Amphipod indet,,Amphipoda
+Decapod indet,,Decapoda larvae
+Pandalus borealis,,Pandalus borealis zoea
+Aglantha digitale,,Aglantha digitale 5–15 mm
+Botrynema ellinorae,,Botrynema ellinorae
+Sarsia sp.,,Sarsia sp.
+Hydrozoa,medusae,Hydrozoa medusae indet.
+Hydrozoa,larvae,Hydrozoa larvae
+Dimophyes arctica,,Ce-ass Dimophyes arctica
+Siphonophorae,,Siphonophora
+Scyphozoa,medusae,Scyphozoa larvae
+Beröe cucumis,,Beroe cucumis
+Mertensia ovum,,Mertensia ovum
+Ctenophora juvenile,indet,Ctenophora larvae
+Clione limacina,,Clione limacina 0–5 mm
+Clione limacina,veliger,Clione limacina veliger
+Limacina helicina,,Limacina helicina 0–5 mm
+Limacina retroversa,,Limacina retroversa 0–5 mm
+Eukrohnia hamata,,Eukrohnia hamata
+Parasagitta elegans,,Parasagitta elegans
+Fritillaria borealis,,Fritillaria borealis
+Oikopleura spp.,,Oikopleura spp.
+Appendicularia spp.,tadpole,Oikopleura spp. 0–5 mm
+Polychaeta,pelagic,Polychaeta adult
+Polychaeta,larvae,Polychaeta metatrochophora
+Polychaeta,post larvae,Polychaeta secondary
+Echinodermata,,Echinodermata larvae
+Bivalvia,juvenile,Bivalvia veliger
+Bryozoa,larvae,Bryozoa larvae
+Gastropoda,larvae,Gastropoda veliger
+parasitic facetotecta,nauplii,Facetotecta nauplii
+Erythrops erythropthalma,,Mysidae
+Obelia spp.,medusae,Hydrozoa medusae indet.
+Evadne nordmanni,,Evadne nordmanni

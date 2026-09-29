@@ -1,0 +1,4 @@
+station,min_depth,max_depth,species,stage,abundance_m3
+Fjord_A,0,50,Calanus finmarchicus,CV,12.5
+Fjord_A,0,50,Oithona similis,,850
+Fjord_A,50,100,Calanus glacialis,CIV,4.2
